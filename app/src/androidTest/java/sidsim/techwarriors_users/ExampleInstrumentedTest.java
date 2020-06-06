@@ -1,4 +1,4 @@
-package sidsim.techwarriors;
+package sidsim.techwarriors_users;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

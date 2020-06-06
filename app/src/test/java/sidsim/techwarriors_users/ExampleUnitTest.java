@@ -1,4 +1,4 @@
-package sidsim.techwarriors;
+package sidsim.techwarriors_users;
 
 import org.junit.Test;
 
